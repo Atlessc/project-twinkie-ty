@@ -42,6 +42,7 @@ textarea {
 	box-shadow: 4px 4px 0px;
 	margin-bottom: 20px;
 	margin-top: 8px;
+	border: 2px solid black;
 }
 input {
 	border-radius: 15px;
@@ -50,6 +51,7 @@ input {
 	margin-bottom: 20px;
 	margin-top: 8px;
 	height: 20px;
+	border: 2px solid black;
 }
 select {
 	width: 13rem;
@@ -59,6 +61,7 @@ select {
 	margin-top: 8px;
 	height: 20px;
 	text-align: center;
+	border: 2px solid black;
 }
 button {
 	width: 11rem;
@@ -69,6 +72,7 @@ button {
 	font-weight: bold;
 	font-size: 15px;
 	box-shadow: 4px 4px 0px;
+	border: 2px solid black;
 }
 .thankYou {
 	display: flex;
