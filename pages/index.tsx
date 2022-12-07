@@ -6,6 +6,7 @@ import { Rating } from '@mui/material';
 import { SiNike } from 'react-icons/si';
 import ThankYou from '../components/thankyou';
 import Image from 'next/image';
+
 const Post = () => {
 	const router = useRouter();
 	const [content, setContent] = useState({
